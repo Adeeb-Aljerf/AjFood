@@ -163,7 +163,8 @@
 /* BELOW 704px (Smaller tablets) */
 @media (max-width: 44em) {
   .section-how {
-    padding: 0 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
   .grid--4-cols,
   .grid--3-cols {
