@@ -162,6 +162,9 @@
 
 /* BELOW 704px (Smaller tablets) */
 @media (max-width: 44em) {
+  .section-how {
+    padding: 0 1rem;
+  }
   .grid--4-cols,
   .grid--3-cols {
     grid-template-columns: repeat(2, 1fr);
